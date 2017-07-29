@@ -1,0 +1,168 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=14] -->
+    <string name="app_name">Santa Catarina de Sítimos</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="to_stay">Onde Ficar?</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="to_eat">Onde comer?</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="to_do">O Que Fazer?</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="surroundings">Aqui Perto</string>
+
+    <!-- Entry message  -->
+    <string name="front_text">Deixe-se surpreender por esta aldeia pitoresca, rodeada por intermináveis arrozais.</string>
+
+    <!-- To Stay Location 1 Name -->
+    <string name="to_stay_location_1_name">Casa do Arrais</string>
+
+    <!-- To Stay Location 1 Description -->
+    <string name="to_stay_location_1_description">Situada em Santa Catarina de Sítimos, esta casa de férias independente dispõe de um terraço e de um jardim com uma piscina exterior. A unidade encontra-se a 49 km de Évora.</string>
+
+    <!-- To Stay Location 1 Distance -->
+    <string name="to_stay_location_1_distance">Distância: na aldeia</string>
+
+    <!-- To Stay Location 1 Contact -->
+    <string name="to_stay_location_1_contact">Contacto: 265 333 555</string>
+
+
+    <!-- To Stay Location 2 Name -->
+    <string name="to_stay_location_2_name">Pousada de Alcácer</string>
+
+    <!-- To Stay Location 2 Description -->
+    <string name="to_stay_location_2_description">Situado no Castelo de Alcácer, com 1 000 anos de idade, este hotel oferece vistas panorâmicas sobre o Rio Sado e o vale verdejante que o mesmo atravessa. As comodidades incluem uma piscina exterior.</string>
+
+    <!-- To Stay Location 2 Distance -->
+    <string name="to_stay_location_2_distance">Distância: 6,9 km</string>
+
+    <!-- To Stay Location 2 Contact -->
+    <string name="to_stay_location_2_contact">Contacto: 265 333 555</string>
+
+
+    <!-- To Stay Location 3 Name -->
+    <string name="to_stay_location_3_name">Herdade da Ameira</string>
+
+    <!-- To Stay Location 3 Description -->
+    <string name="to_stay_location_3_description">As Herdades da Ameira disponibilizam uma acomodação em Alcácer do Sal, a 34 km de Troia e a 36 km de Setúbal. A propriedade fica a 29 km da Comporta e oferece vistas para a piscina.</string>
+
+    <!-- To Stay Location 3 Distance -->
+    <string name="to_stay_location_3_distance">Distância: 8.8 km</string>
+
+    <!-- To Stay Location 3 Contact -->
+    <string name="to_stay_location_3_contact">Contacto: 265 333 555 </string>
+
+
+    <!-- To Stay Location 4 Name -->
+    <string name="to_stay_location_4_name">Hotel da Barrosinha</string>
+
+    <!-- To Stay Location 4 Description -->
+    <string name="to_stay_location_4_description">O Hotel Rural da Barrosinha está localizado na extremidade da Reserva Natural do Estuário do Sado, apenas a 2 km de Alcácer do Sal. </string>
+
+    <!-- To Stay Location 4 Distance -->
+    <string name="to_stay_location_4_distance">Distância: 6.0 km</string>
+
+    <!-- To Stay Location 4 Contact -->
+    <string name="to_stay_location_4_contact">Contacto: 265 333 555</string>
+
+
+    <!-- To Eat Location 1 Name -->
+    <string name="to_eat_location_1_name">Café da Ana</string>
+
+    <!-- To Eat Location 1 Description -->
+    <string name="to_eat_location_1_description">Localizado mesmo na aldeia de Santa Catarina de Sítimos, este local tem vindo a ganhar cada vez mais apreciadores, atraídos pela cozinha caseira tradicional que oferece.</string>
+
+    <!-- To Eat Location 1 Contact -->
+    <string name="to_eat_location_1_contact">Contacto: 265 333 555</string>
+
+
+    <!-- To Eat Location 2 Name -->
+    <string name="to_eat_location_2_name">Restaurante Mondina</string>
+
+    <!-- To Eat Location 2 Description -->
+    <string name="to_eat_location_2_description">Local cheio de história, localizado na Barragem do Pego do Altar. Aqui é possível provar pratos de caça e pesca, assim como outras iguarias regionais.</string>
+
+    <!-- To Eat Location 2 Contact -->
+    <string name="to_eat_location_2_contact">Contacto: 265 333 555</string>
+
+
+    <!-- To Eat Location 3 Name -->
+    <string name="to_eat_location_3_name">Restaurante A Escola</string>
+
+    <!-- To Eat Location 3 Description -->
+
+
+    <string name="to_eat_location_3_description">Restaurante famoso a nivel nacional e, até, internacional, que conta com uma ementa recheada de marisco.
+    </string>
+
+    <!-- To Eat Location 3 Contact -->
+    <string name="to_eat_location_3_contact">Contacto: 265 333 555</string>
+
+
+    <!-- To Eat Location 4 Name -->
+    <string name="to_eat_location_4_name">Restaurante O Rola</string>
+
+    <!-- To Eat Location 4 Description -->
+    <string name="to_eat_location_4_description">Restaurante típico localizado na localidade da CArrasqueira, terra de pescadores. Por isso mesmo oferece sobretudo uma ementa virada para o mar. </string>
+
+    <!-- To Eat Location 4 Contact -->
+    <string name="to_eat_location_4_contact">Contacto: 265 333 555</string>
+
+
+    <!-- To Eat Location 5 Name -->
+    <string name="to_eat_location_5_name">Cantinho da Ribeira Velha</string>
+
+    <!-- To Eat Location 5 Description -->
+    <string name="to_eat_location_5_description">Casa muito acolhedora, não fosse ter apenas meia dúzia de mesas disponíveis. Mas não se deseje enganar, o pouco espaço contrasta com a imensa qualidade dos pratos que oferece, com especial destaque para o arroz de lingueirão. </string>
+
+    <!-- To Eat Location 5 Contact -->
+    <string name="to_eat_location_5_contact">Contacto: 265 333 555</string>
+
+
+    <!-- To Do Location 1 Name -->
+    <string name="to_do_location_1_name">Villa Romana</string>
+
+    <!-- To Do Location 1 Description -->
+    <string name="to_do_location_1_description">Até ao momento, as escavações arqueológicas revelaram uma ocupação humana desde meados do século I a.C. que terá durado até aos séculos V/VI. Posteriormente, em contexto Islâmico, assiste-se a uma presença humana ainda em moldes pouco claros, sucedendo o mesmo após a conquista Cristã de 1217, vindo dar à aldeia atualmente existente e cuja igreja encontra-se referida no século XIII.</string>
+
+
+    <!-- To Do Location 2 Name -->
+    <string name="to_do_location_2_name">Torre Medieval</string>
+
+    <!-- To Do Location 2 Description -->
+    <string name="to_do_location_2_description">Torre de cronologia Tardo Islâmica, Almoada. Foi reaproveitada em contexto Medieval Cristão. A construção actualmente existente é uma reconstrução do original.</string>
+
+
+    <!-- To Do Location 3 Name -->
+    <string name="to_do_location_3_name">Festas em Honra de S. Sebastião</string>
+
+    <!-- To Do Location 3 Description -->
+    <string name="to_do_location_3_description">As tradicionais festas em honra de S. Sebastião  prometem sempre muita alegria e diversão, sem esquecer a componente religiosa. Ocorrem no último fim-de-semana de Maio, entre 6ª e sábado.</string>
+
+
+    <!-- Surroundings Location 1 Name -->
+    <string name="surroundings_location_1_name">Barragem do Pego do Altar</string>
+
+    <!-- Surroundings Location 1 Description -->
+    <string name="surroundings_location_1_description">Esta barragem foi construída em 1949, durante o Estado Novo, tendo em vista o aproveitamento das águas para a agricultura no vale do Sado (arrozais de Alcácer do Sal) e para a produção hidroelétrica. A sua albufeira é, hoje em dia, um ponto de elevado interesse turístico, sobretudo para a pesca desportiva.
+</string>
+
+
+    <!-- Surroundings Location 2 Name -->
+    <string name="surroundings_location_2_name">Cidade de Alcácer do Sal</string>
+
+    <!-- Surroundings Location 2 Description -->
+    <string name="surroundings_location_2_description">Alcácer do Sal é uma das mais antigas cidades da Europa, fundada antes de 1000 a.C. pelos fenícios. Assim como as vizinhas e também fenícias Lisboa e Setúbal, fornecia sal, peixe salgado, cavalos para exportação e alimentos para os barcos que comerciavam estanho com a Cornualha.</string>
+
+
+    <!-- Surroundings Location 3 Name -->
+    <string name="surroundings_location_3_name">Aldeia de Santa Susana</string>
+
+    <!-- Surroundings Location 3 Description -->
+    <string name="surroundings_location_3_description">Com arquitectura tipicamente alentejana, a aldeia de Santa Susana destaca-se pela presença de casinhas de rés-do-chão, todas caiadas de branco com barra azul e grandes chaminés.
+</string>
+
+</resources>
