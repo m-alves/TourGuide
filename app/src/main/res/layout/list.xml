@@ -7,16 +7,16 @@
     android:orientation="vertical">
 
     <RelativeLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:background="@color/listBackground"
         android:layout_margin="8dp"
         >
         <ImageView
             android:id="@+id/image"
             android:adjustViewBounds="true"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
             android:scaleType="centerCrop"
             />
 
@@ -31,11 +31,10 @@
 
             <TextView
                 android:id="@+id/name"
-                android:layout_height="0dp"
-                android:layout_weight="1"
+                android:layout_height="wrap_content"
                 android:paddingTop="8dp"
                 android:paddingLeft="8dp"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textColor="@color/listTextColor"
                 android:background="@color/listTextBackground"
                 android:textStyle="bold"
@@ -45,11 +44,10 @@
             <TextView
                 android:id="@+id/distance"
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
+                android:layout_height="wrap_content"
                 android:paddingTop="8dp"
                 android:paddingLeft="10dp"
-                android:textSize="16dp"
+                android:textSize="16sp"
                 android:textColor="@color/listTextColor"
                 android:background="@color/listTextBackground"
 
@@ -58,11 +56,10 @@
             <TextView
                 android:id="@+id/contact"
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
+                android:layout_height="wrap_content"
                 android:paddingTop="8dp"
                 android:paddingLeft="10dp"
-                android:textSize="16dp"
+                android:textSize="16sp"
                 android:textColor="@color/listTextColor"
                 android:background="@color/listTextBackground"
                  />
