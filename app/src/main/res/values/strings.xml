@@ -12,7 +12,7 @@
     <string name="to_do">What to do?</string>
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
-    <string name="surroundings">Near by!</string>
+    <string name="surroundings">Nearby!</string>
 
     <!-- Entry message  -->
     <string name="front_text">Be surprised by this fancy village, surrounded by endless rice fields.</string>

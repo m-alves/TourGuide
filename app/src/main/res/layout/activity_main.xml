@@ -1,89 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     tools:context="com.example.android.santacatarinasitimos.MainActivity">
-
-
 
     <ImageView
         android:id="@+id/front_image"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/arrozal"
+        android:background="@drawable/arrozal" />
 
-        />
-
-
-
-
-        <RelativeLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="60dp"
-            android:layout_alignParentBottom="true">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="60dp"
+        android:layout_gravity="bottom">
 
         <Button
             android:id="@+id/to_stay"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
-            android:textAlignment="gravity"
-            android:background="@drawable/roundbutton"
+            style="@style/buttonStyle"
             android:layout_alignParentLeft="true"
             android:text="@string/to_stay"
-            android:textColor="#ffffff"
-            android:fontFamily="casual"/>
+            />
 
         <Button
             android:id="@+id/to_eat"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
-            android:textAlignment="gravity"
+            style="@style/buttonStyle"
             android:layout_alignParentRight="true"
-            android:background="@drawable/roundbutton"
-
-
-            android:textColor="#ffffff"
-            android:fontFamily="casual"
             android:text="@string/to_eat" />
-
-
-
 
         <Button
             android:id="@+id/to_do"
-
+            style="@style/buttonStyle"
             android:layout_below="@+id/to_stay"
             android:layout_marginTop="30dp"
-            android:background="@drawable/roundbutton"
-            android:textAlignment="gravity"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
-            android:textColor="#ffffff"
-            android:fontFamily="casual"
             android:text="@string/to_do" />
 
         <Button
             android:id="@+id/surroundings"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
-            android:background="@drawable/roundbutton"
-
-            android:textAlignment="gravity"
-            android:gravity="center"
-            android:textColor="#ffffff"
-            android:fontFamily="casual"
+            style="@style/buttonStyle"
             android:text="@string/surroundings"
             android:layout_alignTop="@+id/to_do"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true" />
 
-
-
-
-        </RelativeLayout>
-
     </RelativeLayout>
+
+</FrameLayout>

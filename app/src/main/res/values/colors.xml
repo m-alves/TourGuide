@@ -5,4 +5,8 @@
     <color name="colorAccent">#FF4081</color>
     <color name="toStay">#75ffffff</color>
     <color name="name">#616161</color>
+    <color name="textColor">#ffffff</color>
+    <color name="listBackground">#99ffffff</color>
+    <color name="listTextColor">#000000</color>
+    <color name="listTextBackground">@android:color/transparent</color>
 </resources>

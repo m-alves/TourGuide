@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/transparent"
-
     android:orientation="vertical">
 
-
     <RelativeLayout
-
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#99ffffff"
-
+        android:background="@color/listBackground"
         android:layout_margin="8dp"
         >
         <ImageView
@@ -23,10 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:scaleType="centerCrop"
-
             />
-
-
 
         <LinearLayout
         android:id="@+id/text_container"
@@ -34,8 +26,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:layout_toRightOf="@+id/image"
-        android:background="@android:color/transparent"
-
+        android:background="@color/listTextBackground"
         >
 
             <TextView
@@ -45,8 +36,8 @@
                 android:paddingTop="8dp"
                 android:paddingLeft="8dp"
                 android:textSize="20dp"
-                android:textColor="#000000"
-                android:background="@android:color/transparent"
+                android:textColor="@color/listTextColor"
+                android:background="@color/listTextBackground"
                 android:textStyle="bold"
                 android:layout_width="match_parent"
                  />
@@ -59,8 +50,8 @@
                 android:paddingTop="8dp"
                 android:paddingLeft="10dp"
                 android:textSize="16dp"
-                android:textColor="#000000"
-                android:background="@android:color/transparent"
+                android:textColor="@color/listTextColor"
+                android:background="@color/listTextBackground"
 
                  />
 
@@ -72,29 +63,24 @@
                 android:paddingTop="8dp"
                 android:paddingLeft="10dp"
                 android:textSize="16dp"
-                android:textColor="#000000"
-
-                android:background="@android:color/transparent"
+                android:textColor="@color/listTextColor"
+                android:background="@color/listTextBackground"
                  />
-
-
         </LinearLayout>
-
-
 
     <TextView
         android:id="@+id/description"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:textAppearanceSmall"
-        android:textColor="#000000"
+        android:textColor="@color/listTextColor"
         android:textStyle="italic"
         android:paddingLeft="8dp"
         android:paddingTop="8dp"
         android:paddingRight="8dp"
         android:paddingBottom="16dp"
-        android:background="@android:color/transparent"
+        android:background="@color/listTextBackground"
         android:layout_below="@+id/image"
         />
     </RelativeLayout>
-</LinearLayout>
+</FrameLayout>

@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 // Create a new intent to open the {@link ToStayActivity}
                 Intent toStayIntent = new Intent(MainActivity.this, ToStayActivity.class);
-
                 // Start the new activity
                 startActivity(toStayIntent);
             }
@@ -40,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 // Create a new intent to open the {@link ToEatActivity}
                 Intent toEatIntent = new Intent(MainActivity.this, ToEatActivity.class);
-
                 // Start the new activity
                 startActivity(toEatIntent);
             }
@@ -56,7 +54,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 // Create a new intent to open the {@link ToDoActivity}
                 Intent toDoIntent = new Intent(MainActivity.this, ToDoActivity.class);
-
                 // Start the new activity
                 startActivity(toDoIntent);
             }
@@ -72,7 +69,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 // Create a new intent to open the {@link SurroundingsActivity}
                 Intent surroundingsIntent = new Intent(MainActivity.this, SurroundingsActivity.class);
-
                 // Start the new activity
                 startActivity(surroundingsIntent);
             }

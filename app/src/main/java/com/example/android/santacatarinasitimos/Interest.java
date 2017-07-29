@@ -53,20 +53,18 @@ public class Interest {
     /**
      * Create a new Interest object.
      *
-     *  is the string resource ID for the name associated with the Point of Interest.
+     * @param nameResourceId is the string resource ID for the name associated with the Point of Interest.
      * @param descriptionResourceId is the string resource ID for the description associated with the Point of Interest.
      * @param contactResourceId is the string resource ID for the contact associated with the Point of Interest
      * @param imageResourceId is the drawable resource ID for the image associated with the Point of Interest
      */
-    public Interest (int NameResourceId, int descriptionResourceId, int contactResourceId, int imageResourceId) {
-        mNameResourceId = NameResourceId;
+    public Interest (int nameResourceId, int descriptionResourceId, int contactResourceId, int imageResourceId) {
+        mNameResourceId = nameResourceId;
         mDescriptionResourceId = descriptionResourceId;
         mContactResourceId = contactResourceId;
         mImageResourceId = imageResourceId;
 
-        //
     }
-
 
     /**
      * Create a new Interest object.
@@ -81,25 +79,12 @@ public class Interest {
         mImageResourceId = imageResourceId;
     }
 
-   /* *//**
-     * Create a new Interest object.
-     *
-     * @param nameResourceId is the string resource ID for the name associated with the Point of Interest.
-     *//*
-    public Interest (int nameResourceId) {
-        mNameResourceId = nameResourceId;
-    }
-*/
-
-
-
-    /**
+     /**
      * Return the name resource ID of the Interest.
      */
     public int getNameResourceId() {
         return mNameResourceId;
     }
-
 
     /**
      * Return the description resource ID of the Interest.
@@ -142,5 +127,4 @@ public class Interest {
     public boolean hasContact() {
         return mContactResourceId != NO_CONTACT_PROVIDED;
     }
-
 }
