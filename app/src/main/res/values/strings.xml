@@ -3,90 +3,90 @@
     <string name="app_name">Santa Catarina de Sítimos</string>
 
     <!-- Category name for phrases [CHAR LIMIT=20] -->
-    <string name="to_stay">Onde Ficar?</string>
+    <string name="to_stay">Where to stay?</string>
 
     <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
-    <string name="to_eat">Onde comer?</string>
+    <string name="to_eat">Where to eat?</string>
 
     <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
-    <string name="to_do">O Que Fazer?</string>
+    <string name="to_do">What to do?</string>
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
-    <string name="surroundings">Aqui Perto</string>
+    <string name="surroundings">Near by!</string>
 
     <!-- Entry message  -->
-    <string name="front_text">Deixe-se surpreender por esta aldeia pitoresca, rodeada por intermináveis arrozais.</string>
+    <string name="front_text">Be surprised by this fancy village, surrounded by endless rice fields.</string>
 
     <!-- To Stay Location 1 Name -->
-    <string name="to_stay_location_1_name">Casa do Arrais</string>
+    <string name="to_stay_location_1_name">House of Arrais</string>
 
     <!-- To Stay Location 1 Description -->
-    <string name="to_stay_location_1_description">Situada em Santa Catarina de Sítimos, esta casa de férias independente dispõe de um terraço e de um jardim com uma piscina exterior. A unidade encontra-se a 49 km de Évora.</string>
+    <string name="to_stay_location_1_description">This holyday house is located in Santa Catarina de Sítimos, and provides you with a garden and an outdoor pool. It is only 49 km far away from the city of Évora.</string>
 
     <!-- To Stay Location 1 Distance -->
-    <string name="to_stay_location_1_distance">Distância: na aldeia</string>
+    <string name="to_stay_location_1_distance">Distance: in the village</string>
 
     <!-- To Stay Location 1 Contact -->
-    <string name="to_stay_location_1_contact">Contacto: 265 333 555</string>
+    <string name="to_stay_location_1_contact">Contact: 265 321 345</string>
 
 
     <!-- To Stay Location 2 Name -->
     <string name="to_stay_location_2_name">Pousada de Alcácer</string>
 
     <!-- To Stay Location 2 Description -->
-    <string name="to_stay_location_2_description">Situado no Castelo de Alcácer, com 1 000 anos de idade, este hotel oferece vistas panorâmicas sobre o Rio Sado e o vale verdejante que o mesmo atravessa. As comodidades incluem uma piscina exterior.</string>
+    <string name="to_stay_location_2_description">This hotel is locate in the Castle of Alcácer, which has over 1000 of age. The hotel offers its hosts spectacular panoramic views over the Sado river.</string>
 
     <!-- To Stay Location 2 Distance -->
-    <string name="to_stay_location_2_distance">Distância: 6,9 km</string>
+    <string name="to_stay_location_2_distance">Distance: 6,9 km</string>
 
     <!-- To Stay Location 2 Contact -->
-    <string name="to_stay_location_2_contact">Contacto: 265 333 555</string>
+    <string name="to_stay_location_2_contact">Contact: 265 343 687</string>
 
 
     <!-- To Stay Location 3 Name -->
     <string name="to_stay_location_3_name">Herdade da Ameira</string>
 
     <!-- To Stay Location 3 Description -->
-    <string name="to_stay_location_3_description">As Herdades da Ameira disponibilizam uma acomodação em Alcácer do Sal, a 34 km de Troia e a 36 km de Setúbal. A propriedade fica a 29 km da Comporta e oferece vistas para a piscina.</string>
+    <string name="to_stay_location_3_description">The Herdades da Ameira provide a place to stay in Alcácer do Sal, 34 km from Troia and 36 km from Setúbal. The world famous Comporta beach is only 29 km away.</string>
 
     <!-- To Stay Location 3 Distance -->
-    <string name="to_stay_location_3_distance">Distância: 8.8 km</string>
+    <string name="to_stay_location_3_distance">Distance: 8.8 km</string>
 
     <!-- To Stay Location 3 Contact -->
-    <string name="to_stay_location_3_contact">Contacto: 265 333 555 </string>
+    <string name="to_stay_location_3_contact">Contact: 265 752 812 </string>
 
 
     <!-- To Stay Location 4 Name -->
-    <string name="to_stay_location_4_name">Hotel da Barrosinha</string>
+    <string name="to_stay_location_4_name">Hotel of Barrosinha</string>
 
     <!-- To Stay Location 4 Description -->
-    <string name="to_stay_location_4_description">O Hotel Rural da Barrosinha está localizado na extremidade da Reserva Natural do Estuário do Sado, apenas a 2 km de Alcácer do Sal. </string>
+    <string name="to_stay_location_4_description">O Hotel Rural da Barrosinha is located in the edge of the Natural Reserve Sado\'s Estuary, only 2 km from Alcácer do Sal. </string>
 
     <!-- To Stay Location 4 Distance -->
-    <string name="to_stay_location_4_distance">Distância: 6.0 km</string>
+    <string name="to_stay_location_4_distance">Distance: 6.0 km</string>
 
     <!-- To Stay Location 4 Contact -->
-    <string name="to_stay_location_4_contact">Contacto: 265 333 555</string>
+    <string name="to_stay_location_4_contact">Contact: 265 333 555</string>
 
 
     <!-- To Eat Location 1 Name -->
     <string name="to_eat_location_1_name">Café da Ana</string>
 
     <!-- To Eat Location 1 Description -->
-    <string name="to_eat_location_1_description">Localizado mesmo na aldeia de Santa Catarina de Sítimos, este local tem vindo a ganhar cada vez mais apreciadores, atraídos pela cozinha caseira tradicional que oferece.</string>
+    <string name="to_eat_location_1_description">Located in the village of Santa Catarina de Sítimos, this cozy place has gained lots of fans, who are surprised by its traditional homecooking.</string>
 
     <!-- To Eat Location 1 Contact -->
-    <string name="to_eat_location_1_contact">Contacto: 265 333 555</string>
+    <string name="to_eat_location_1_contact">Contacto: 265 124 534</string>
 
 
     <!-- To Eat Location 2 Name -->
     <string name="to_eat_location_2_name">Restaurante Mondina</string>
 
     <!-- To Eat Location 2 Description -->
-    <string name="to_eat_location_2_description">Local cheio de história, localizado na Barragem do Pego do Altar. Aqui é possível provar pratos de caça e pesca, assim como outras iguarias regionais.</string>
+    <string name="to_eat_location_2_description">It is a place full of history, located in the Pego do Altar Dam. Here, you can taste fish and hunting dishes, along other regional wonders.</string>
 
     <!-- To Eat Location 2 Contact -->
-    <string name="to_eat_location_2_contact">Contacto: 265 333 555</string>
+    <string name="to_eat_location_2_contact">Contacto: 265 987 124</string>
 
 
     <!-- To Eat Location 3 Name -->
@@ -95,74 +95,73 @@
     <!-- To Eat Location 3 Description -->
 
 
-    <string name="to_eat_location_3_description">Restaurante famoso a nivel nacional e, até, internacional, que conta com uma ementa recheada de marisco.
+    <string name="to_eat_location_3_description">This is a renowned restaurant, famous both nationally and internationally, which offers its visitors a menu with an outstanding variety of seafood dishes.
     </string>
 
     <!-- To Eat Location 3 Contact -->
-    <string name="to_eat_location_3_contact">Contacto: 265 333 555</string>
+    <string name="to_eat_location_3_contact">Contact: 265 863 532</string>
 
 
     <!-- To Eat Location 4 Name -->
     <string name="to_eat_location_4_name">Restaurante O Rola</string>
 
     <!-- To Eat Location 4 Description -->
-    <string name="to_eat_location_4_description">Restaurante típico localizado na localidade da CArrasqueira, terra de pescadores. Por isso mesmo oferece sobretudo uma ementa virada para o mar. </string>
+    <string name="to_eat_location_4_description">Typical restaurant, located in the fishing village of Carrasqueira. Because of that, you can count with a menu based on fresh sea products. </string>
 
     <!-- To Eat Location 4 Contact -->
-    <string name="to_eat_location_4_contact">Contacto: 265 333 555</string>
+    <string name="to_eat_location_4_contact">Contacto: 265 735 123</string>
 
 
     <!-- To Eat Location 5 Name -->
     <string name="to_eat_location_5_name">Cantinho da Ribeira Velha</string>
 
     <!-- To Eat Location 5 Description -->
-    <string name="to_eat_location_5_description">Casa muito acolhedora, não fosse ter apenas meia dúzia de mesas disponíveis. Mas não se deseje enganar, o pouco espaço contrasta com a imensa qualidade dos pratos que oferece, com especial destaque para o arroz de lingueirão. </string>
+    <string name="to_eat_location_5_description">A very welcoming house, with only half a dozen tables. But don\'t be fooled, the small space contrasts with the enormous quality of the dishes. The speciality is the delicious seafood rice.</string>
 
     <!-- To Eat Location 5 Contact -->
-    <string name="to_eat_location_5_contact">Contacto: 265 333 555</string>
+    <string name="to_eat_location_5_contact">Contacto: 265 843 158</string>
 
 
     <!-- To Do Location 1 Name -->
     <string name="to_do_location_1_name">Villa Romana</string>
 
     <!-- To Do Location 1 Description -->
-    <string name="to_do_location_1_description">Até ao momento, as escavações arqueológicas revelaram uma ocupação humana desde meados do século I a.C. que terá durado até aos séculos V/VI. Posteriormente, em contexto Islâmico, assiste-se a uma presença humana ainda em moldes pouco claros, sucedendo o mesmo após a conquista Cristã de 1217, vindo dar à aldeia atualmente existente e cuja igreja encontra-se referida no século XIII.</string>
+    <string name="to_do_location_1_description">At the moment, the archeological excavations have revealed a human ocupation since the I century BC, that continued until the V and VI centuries. After that, came a Islamic period, followed by christian dominion since the Reconquista in 1217. The local church dates from this period.</string>
 
 
     <!-- To Do Location 2 Name -->
     <string name="to_do_location_2_name">Torre Medieval</string>
 
     <!-- To Do Location 2 Description -->
-    <string name="to_do_location_2_description">Torre de cronologia Tardo Islâmica, Almoada. Foi reaproveitada em contexto Medieval Cristão. A construção actualmente existente é uma reconstrução do original.</string>
+    <string name="to_do_location_2_description">This medieval tower dates from the Late Islamic Almohad Period, and was reused by the christians in the Medieval period. The tower we see today is a reconstruction of the original.</string>
 
 
     <!-- To Do Location 3 Name -->
-    <string name="to_do_location_3_name">Festas em Honra de S. Sebastião</string>
+    <string name="to_do_location_3_name">Saint Sebastian Festivities</string>
 
     <!-- To Do Location 3 Description -->
-    <string name="to_do_location_3_description">As tradicionais festas em honra de S. Sebastião  prometem sempre muita alegria e diversão, sem esquecer a componente religiosa. Ocorrem no último fim-de-semana de Maio, entre 6ª e sábado.</string>
+    <string name="to_do_location_3_description">These traditional festivities honor S. Sebastian, and are characterized by lots of joy and fun, in parallel with the religious component. They take place in the last weekend of May.</string>
 
 
     <!-- Surroundings Location 1 Name -->
-    <string name="surroundings_location_1_name">Barragem do Pego do Altar</string>
+    <string name="surroundings_location_1_name">Pego do Altar Dam</string>
 
     <!-- Surroundings Location 1 Description -->
-    <string name="surroundings_location_1_description">Esta barragem foi construída em 1949, durante o Estado Novo, tendo em vista o aproveitamento das águas para a agricultura no vale do Sado (arrozais de Alcácer do Sal) e para a produção hidroelétrica. A sua albufeira é, hoje em dia, um ponto de elevado interesse turístico, sobretudo para a pesca desportiva.
+    <string name="surroundings_location_1_description">This dam was built in 1949, during the New State, the dictatorship period. It was built in order to gather water for the agricultures of the Sado valley and its rice fields and, also, for electricity production. The dam is nowadays a place that gathers a huge interest from the sports fishing community.
 </string>
 
 
     <!-- Surroundings Location 2 Name -->
-    <string name="surroundings_location_2_name">Cidade de Alcácer do Sal</string>
+    <string name="surroundings_location_2_name">Alcácer do Sal City</string>
 
     <!-- Surroundings Location 2 Description -->
-    <string name="surroundings_location_2_description">Alcácer do Sal é uma das mais antigas cidades da Europa, fundada antes de 1000 a.C. pelos fenícios. Assim como as vizinhas e também fenícias Lisboa e Setúbal, fornecia sal, peixe salgado, cavalos para exportação e alimentos para os barcos que comerciavam estanho com a Cornualha.</string>
+    <string name="surroundings_location_2_description">Alcácer do Sal is one of the oldest cities in Europe, founded before 1000 BC by the phoenicians. As other neighbouring cities as Lisbon and Setúbal, it provided salt, salted fish, horses and food that were traded in Cornwall for tin metal.</string>
 
 
     <!-- Surroundings Location 3 Name -->
-    <string name="surroundings_location_3_name">Aldeia de Santa Susana</string>
+    <string name="surroundings_location_3_name">Santa Susana Village</string>
 
     <!-- Surroundings Location 3 Description -->
-    <string name="surroundings_location_3_description">Com arquitectura tipicamente alentejana, a aldeia de Santa Susana destaca-se pela presença de casinhas de rés-do-chão, todas caiadas de branco com barra azul e grandes chaminés.
-</string>
+    <string name="surroundings_location_3_description">With typical Alentejo houses and streets, this village offers us ground level white washed houses with a blue bar and big chimneys.</string>
 
 </resources>
