@@ -65,19 +65,19 @@
                  />
         </LinearLayout>
 
-    <TextView
-        android:id="@+id/description"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:textAppearanceSmall"
-        android:textColor="@color/listTextColor"
-        android:textStyle="italic"
-        android:paddingLeft="8dp"
-        android:paddingTop="8dp"
-        android:paddingRight="8dp"
-        android:paddingBottom="16dp"
-        android:background="@color/listTextBackground"
-        android:layout_below="@+id/image"
-        />
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/listTextColor"
+            android:textStyle="italic"
+            android:paddingLeft="8dp"
+            android:paddingTop="8dp"
+            android:paddingRight="8dp"
+            android:paddingBottom="16dp"
+            android:background="@color/listTextBackground"
+            android:layout_below="@+id/image"
+            />
     </RelativeLayout>
 </FrameLayout>
